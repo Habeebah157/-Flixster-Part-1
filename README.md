@@ -1,10 +1,10 @@
-# Android Project 3 - *Name of App Here*
+# Android Project 3 - *Flixster - Part-1*
 
-Submitted by: **Your Name Here**
+Submitted by: **Habeebah Muse**
 
 **Name of your app** is a movie browsing app that allows users to browse movies currently playing in theaters.
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
@@ -45,7 +45,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Habeebah Muse]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
